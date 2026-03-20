@@ -16,7 +16,7 @@
 - **Live App:** [https://hire-trail.onrender.com](https://hire-trail.onrender.com)
 - **Demo Video:** [YouTube link here]
 - **Presentation Slides:** [Google Slides link here]
-- **Design Document:** [Link here]
+- **Design Document:** [https://drive.google.com/file/d/1uuVTc4PUYyaIpMTHK6DkAzHOQYuqdx5U/view?usp=sharing](https://drive.google.com/file/d/1uuVTc4PUYyaIpMTHK6DkAzHOQYuqdx5U/view?usp=sharing)
 
 ---
 
